@@ -23,7 +23,7 @@ An interactive Power BI Business Intelligence project analyzing **20.53B transac
 | ![State Insights](Images/State_Insights.png) | 
 | ![District Analytics](Images/District_Analytics.png) |
 
-> *Check out the 3rd page (`Executive Insights`) in the repository or download the full Power BI (.pbix) file above.*
+> *Check out the 3rd page (`Executive Insights`) in the repository or download the full Power BI (Dashboard/PhonePe_dashboard.pbix) file above.*
 
 ---
 

@@ -18,9 +18,12 @@ An interactive Power BI Business Intelligence project analyzing **20.53B transac
 
 ## 🖥️ Dashboard Previews
 
-| Page 1: State Market Insights | Page 2: District Demographics & ATV |
+| Page 1: State Market Insights |
 | :---: | :---: |
 | ![State Insights](Images/State_Insights.png) | 
+
+| Page 2: District Demographics & ATV |
+| :---: | :---: |
 | ![District Analytics](Images/District_Insights.png) |
 
 > *Check out the 3rd page (`Executive Insights`) in the repository or download the full Power BI (.pbix) file above.*

@@ -22,7 +22,7 @@ An interactive Power BI Business Intelligence project analyzing **20.53B transac
 | :---: | :---: |
 | ![State Insights](Images/State_Insights.png) | 
 
-> *Check out the 2md page (`District Demographics`) in the repository or download the full Power BI (.pbix) file above.*
+> *Check out the 2nd page (`District Demographics`) in the repository or download the full Power BI (.pbix) file above.*
 
 > *Check out the 3rd page (`Executive Insights`) in the repository or download the full Power BI (.pbix) file above.*
 
